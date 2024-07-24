@@ -2,7 +2,7 @@
 
 ## Motivation behind project
 
-This is my first attempt to solve a game-theory style betting problem which involves probabilistic reasoning and optimization of betting at each round by manually calculating the derivatives and finding the bet that maximizes the players EVs #
+This is an attempt to solve a game-theory style betting problem which involves probabilistic reasoning and optimization of betting at each round by manually calculating the derivatives and finding the bet that maximizes the players EVs
 
 ## Description
 
